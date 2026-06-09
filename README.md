@@ -22,7 +22,7 @@ Anzen is a real-time security engine for Android that intercepts zero-day phishi
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 | Real-Time Dashboard | Deep Scanner | Threat Interception |
 |:---:|:---:|:---:|
@@ -30,7 +30,7 @@ Anzen is a real-time security engine for Android that intercepts zero-day phishi
 
 ---
 
-## 🚀 Why Anzen?
+##  Why Anzen?
 
 Traditional mobile antiviruses rely on slow cloud blacklists that routinely miss newly generated "zero-day" phishing links. Attackers actively bypass them using **Domain Generation Algorithms (DGA)** and **Homograph attacks** — techniques that are invisible to signature-based scanners.
 
@@ -38,7 +38,7 @@ Anzen takes a fundamentally different approach: it analyzes the mathematical *DN
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
 | Feature | Description |
 |---|---|
@@ -50,7 +50,7 @@ Anzen takes a fundamentally different approach: it analyzes the mathematical *DN
 
 ---
 
-## 🧠 The Heuristics Engine
+##  The Heuristics Engine
 
 When a URL is intercepted, it passes through a 4-stage analysis pipeline entirely on-device:
 
@@ -84,7 +84,7 @@ When a URL is intercepted, it passes through a 4-stage analysis pipeline entirel
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -97,7 +97,7 @@ When a URL is intercepted, it passes through a 4-stage analysis pipeline entirel
 
 ---
 
-## 🔒 OS Compliance & Permissions
+##  OS Compliance & Permissions
 
 Anzen is built with strict compliance with **Google Play Protect** guidelines. Deep OS access is required for interception; here's how we handle it responsibly:
 
@@ -107,7 +107,7 @@ Anzen is built with strict compliance with **Google Play Protect** guidelines. D
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Option A — Direct APK
 
@@ -124,13 +124,13 @@ Anzen is built with strict compliance with **Google Play Protect** guidelines. D
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome. Please open an [issue](https://github.com/MR-05-001/ANZEN/issues) first to discuss what you'd like to change.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
