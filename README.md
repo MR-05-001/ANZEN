@@ -111,7 +111,7 @@ Anzen is built with strict compliance with **Google Play Protect** guidelines. D
 
 ### Option A — Direct APK
 
-1. Download `app-release.apk` from [GitHub Releases](https://github.com/MR-05-001/ANZEN/releases/tag/v1.0.0)
+1. Download `anzen.apk` from [GitHub Releases](https://github.com/MR-05-001/ANZEN/releases/tag/v1.0.0)
 2. On your device, allow your browser or file manager to **Install unknown apps**
 3. Open the APK, install Anzen, and follow the secure onboarding flow
 
