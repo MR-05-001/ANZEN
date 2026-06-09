@@ -55,9 +55,9 @@ Anzen takes a fundamentally different approach: it analyzes the mathematical *DN
 When a URL is intercepted, it passes through a 4-stage analysis pipeline entirely on-device:
 
 ```
-URL Intercepted
-      │
-      ▼
+      URL Intercepted
+             │
+             ▼
 ┌─────────────────────────────┐
 │  Stage 1: Extraction &      │  Regex-based deep extraction strips obfuscation
 │  Sanitization               │  and uncovers cloaked links inside text blocks
