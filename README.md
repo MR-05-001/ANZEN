@@ -124,12 +124,6 @@ Anzen is built with strict compliance with **Google Play Protect** guidelines. D
 
 ---
 
-##  Contributing
-
-Contributions, issues, and feature requests are welcome. Please open an [issue](https://github.com/MR-05-001/ANZEN/issues) first to discuss what you'd like to change.
-
----
-
 ##  License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
