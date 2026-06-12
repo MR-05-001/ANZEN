@@ -124,9 +124,11 @@ Anzen is built with strict compliance with **Google Play Protect** guidelines. D
 
 ---
 
-##  License
+## License and Copyright
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+**Copyright (c) 2026 ANZEN. All rights reserved.**
+
+This project and its source code are proprietary. No license is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software.
 
 ---
 
